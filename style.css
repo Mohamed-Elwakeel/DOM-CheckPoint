@@ -41,3 +41,8 @@
     cursor: pointer;
     padding-left: 20px;
 }
+
+img {
+    width: 220px;
+    height: 250px;
+}
